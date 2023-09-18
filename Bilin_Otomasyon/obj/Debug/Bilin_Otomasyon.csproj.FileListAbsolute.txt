@@ -1,0 +1,8 @@
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\obj\Debug\Bilin_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\obj\Debug\Bilin_Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\obj\Debug\Bilin_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\bin\Debug\Bilin_Otomasyon.exe.config
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\bin\Debug\Bilin_Otomasyon.exe
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\bin\Debug\Bilin_Otomasyon.pdb
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\obj\Debug\Bilin_Otomasyon.exe
+C:\Users\murat\source\repos\Bilin_Otomasyon\Bilin_Otomasyon\obj\Debug\Bilin_Otomasyon.pdb
